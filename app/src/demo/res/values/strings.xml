@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeuAppDemo</string>
+    <string name="hello_word_demo">Oi mundo. Versao demo.</string>
+</resources>
